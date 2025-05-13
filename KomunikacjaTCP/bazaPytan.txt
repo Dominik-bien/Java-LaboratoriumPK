@@ -1,0 +1,100 @@
+Który język programowania jest używany do tworzenia aplikacji Android?
+*A. Java
+B. C++
+C. Python
+D. Ruby
+Ile to jest 2 + 2?
+A. 3
+*B. 4
+C. 5
+D. 6
+Który kontynent jest największy?
+A. Europa
+B. Ameryka Północna
+*C. Azja
+D. Australia
+Jakie jest chemiczne oznaczenie wody?
+*A. H2O
+B. CO2
+C. O2
+D. NaCl
+Które państwo ma największą populację?
+A. USA
+B. Indie
+C. Rosja
+*D. Chiny
+Jaka planeta jest najbliżej Słońca?
+A. Ziemia
+B. Mars
+C. Wenus
+*D. Merkury
+Jakie jest stolica Polski?
+A. Kraków
+B. Wrocław
+*C. Warszawa
+D. Gdańsk
+Który język programowania jest kompilowany?
+A. Python
+B. JavaScript
+*C. C
+D. PHP
+Która figura ma 4 boki równej długości?
+A. Prostokąt
+B. Trapez
+*C. Kwadrat
+D. Trojkat
+Który pierwiastek chemiczny ma symbol "Fe"?
+A. Fosfor
+*B. Żelazo
+C. Fluor
+D. Ferm
+Które z poniższych to system operacyjny?
+A. Chrome
+B. Facebook
+*C. Windows
+D. Google
+Które miasto jest stolicą Francji?
+A. Berlin
+*B. Paryż
+C. Rzym
+D. Madryt
+Które zwierzę jest ssakiem?
+A. Kura
+B. Ryba
+C. Żaba
+*D. Nietoperz
+Jaki język jest najczęściej używany na świecie?
+A. Hiszpański
+*B. Chiński
+C. Angielski
+D. Arabski
+Ile godzin ma doba?
+A. 12
+B. *24
+C. 36
+D. 48
+Co pokazuje termometr?
+A. Ciśnienie
+B. Wilgotność
+*C. Temperaturę
+D. Prędkość
+Który kolor powstaje z połączenia czerwonego i niebieskiego?
+A. Zielony
+B. Pomarańczowy
+*C. Fioletowy
+D. Brązowy
+Które urządzenie służy do wyświetlania obrazu?
+A. Klawatura
+*B. Monitor
+C. Głośnik
+D. Myszka
+Co to jest HTML?
+A. Język programowania
+B. Język stylów
+*C. Język znaczników
+D. Baza danych
+Jaka planeta jest największa?
+A. Ziemia
+B. Mars
+*C. Jowisz
+D. Wenus
